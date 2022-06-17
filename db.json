@@ -1,217 +1,217 @@
 {
-    "data": {
+  "data": {
     "jp": {
-        "info": {
-            "created_datetime": "2022-06-17 17:00:00",
-            "is_daytime": 0,
-            "sunrise_time": "05:07",
-            "sunset_time": "19:30",
-            "area": {
-                "pref": "",
-                "area1": "福岡県",
-                "latitude": "33.589378",
-                "longitude": "130.393298"
+      "info": {
+        "created_datetime": "2022-06-17 17:00:00",
+        "is_daytime": 0,
+        "sunrise_time": "05:07",
+        "sunset_time": "19:30",
+        "area": {
+          "pref": "",
+          "area1": "福岡県",
+          "latitude": "33.589378",
+          "longitude": "130.393298"
+        }
+      },
+      "day": {
+        "today": {
+          "date": "2022-06-18 00:00:00",
+          "weather": {
+            "code": 201,
+            "telop": "くもり時々晴れ"
+          },
+          "temp": {
+            "hi": 30,
+            "low": 23
+          },
+          "precipitation": [
+            {
+              "time": "0-6",
+              "percentage": 10
+            },
+            {
+              "time": "6-12",
+              "percentage": 10
+            },
+            {
+              "time": "12-18",
+              "percentage": 10
+            },
+            {
+              "time": "18-24",
+              "percentage": 10
             }
+          ]
+        }
+      },
+      "week": [
+        {
+          "date": "2022-06-19",
+          "code": 200,
+          "telop": "くもり",
+          "temp": {
+            "hi": 28,
+            "low": 23
+          },
+          "precipitation": 40
         },
-        "day": {
-            "today": {
-                "date": "2022-06-18 00:00:00",
-                "weather": {
-                    "code": 201,
-                    "telop": "くもり時々晴れ"
-                },
-                "temp": {
-                    "hi": 30,
-                    "low": 23
-                },
-                "precipitation": [
-                    {
-                        "time": "0-6",
-                        "percentage": 10
-                    },
-                    {
-                        "time": "6-12",
-                        "percentage": 10
-                    },
-                    {
-                        "time": "12-18",
-                        "percentage": 10
-                    },
-                    {
-                        "time": "18-24",
-                        "percentage": 10
-                    }
-                ]
-            }
+        {
+          "date": "2022-06-20",
+          "code": 200,
+          "telop": "くもり",
+          "temp": {
+            "hi": 29,
+            "low": 23
+          },
+          "precipitation": 40
         },
-        "week": [
-            {
-                "date": "2022-06-19",
-                "code": 200,
-                "telop": "くもり",
-                "temp": {
-                    "hi": 28,
-                    "low": 23
-                },
-                "precipitation": 40
-            },
-            {
-                "date": "2022-06-20",
-                "code": 200,
-                "telop": "くもり",
-                "temp": {
-                    "hi": 29,
-                    "low": 23
-                },
-                "precipitation": 40
-            },
-            {
-                "date": "2022-06-21",
-                "code": 202,
-                "telop": "くもり一時雨",
-                "temp": {
-                    "hi": 28,
-                    "low": 23
-                },
-                "precipitation": 50
-            },
-            {
-                "date": "2022-06-22",
-                "code": 202,
-                "telop": "くもり一時雨",
-                "temp": {
-                    "hi": 27,
-                    "low": 23
-                },
-                "precipitation": 50
-            },
-            {
-                "date": "2022-06-23",
-                "code": 202,
-                "telop": "くもり一時雨",
-                "temp": {
-                    "hi": 27,
-                    "low": 24
-                },
-                "precipitation": 50
-            },
-            {
-                "date": "2022-06-24",
-                "code": 202,
-                "telop": "くもり一時雨",
-                "temp": {
-                    "hi": 27,
-                    "low": 23
-                },
-                "precipitation": 50
-            }
-        ]
+        {
+          "date": "2022-06-21",
+          "code": 202,
+          "telop": "くもり一時雨",
+          "temp": {
+            "hi": 28,
+            "low": 23
+          },
+          "precipitation": 50
+        },
+        {
+          "date": "2022-06-22",
+          "code": 202,
+          "telop": "くもり一時雨",
+          "temp": {
+            "hi": 27,
+            "low": 23
+          },
+          "precipitation": 50
+        },
+        {
+          "date": "2022-06-23",
+          "code": 202,
+          "telop": "くもり一時雨",
+          "temp": {
+            "hi": 27,
+            "low": 24
+          },
+          "precipitation": 50
+        },
+        {
+          "date": "2022-06-24",
+          "code": 202,
+          "telop": "くもり一時雨",
+          "temp": {
+            "hi": 27,
+            "low": 23
+          },
+          "precipitation": 50
+        }
+      ]
     },
     "en": {
-        "info": {
-            "created_datetime": "2022-06-17 17:00:00",
-            "is_daytime": 0,
-            "sunrise_time": "05:07",
-            "sunset_time": "19:30",
-            "area": {
-                "pref": "",
-                "area1": "Fukuoka"
-            }
+      "info": {
+        "created_datetime": "2022-06-17 17:00:00",
+        "is_daytime": 0,
+        "sunrise_time": "05:07",
+        "sunset_time": "19:30",
+        "area": {
+          "pref": "",
+          "area1": "Fukuoka"
+        }
+      },
+      "day": {
+        "today": {
+          "date": "2022-06-18 00:00:00",
+          "weather": {
+            "code": 201,
+            "telop": "Cloudy, partly sunny"
+          }
+        }
+      },
+      "week": [
+        {
+          "date": "2022-06-19",
+          "code": 200,
+          "telop": "Cloudy"
         },
-        "day": {
-            "today": {
-                "date": "2022-06-18 00:00:00",
-                "weather": {
-                    "code": 201,
-                    "telop": "Cloudy, partly sunny"
-                }
-            }
+        {
+          "date": "2022-06-20",
+          "code": 200,
+          "telop": "Cloudy"
         },
-        "week": [
-            {
-                "date": "2022-06-19",
-                "code": 200,
-                "telop": "Cloudy"
-            },
-            {
-                "date": "2022-06-20",
-                "code": 200,
-                "telop": "Cloudy"
-            },
-            {
-                "date": "2022-06-21",
-                "code": 202,
-                "telop": "Cloudy, with an interval of rain"
-            },
-            {
-                "date": "2022-06-22",
-                "code": 202,
-                "telop": "Cloudy, with an interval of rain"
-            },
-            {
-                "date": "2022-06-23",
-                "code": 202,
-                "telop": "Cloudy, with an interval of rain"
-            },
-            {
-                "date": "2022-06-24",
-                "code": 202,
-                "telop": "Cloudy, with an interval of rain"
-            }
-        ]
+        {
+          "date": "2022-06-21",
+          "code": 202,
+          "telop": "Cloudy, with an interval of rain"
+        },
+        {
+          "date": "2022-06-22",
+          "code": 202,
+          "telop": "Cloudy, with an interval of rain"
+        },
+        {
+          "date": "2022-06-23",
+          "code": 202,
+          "telop": "Cloudy, with an interval of rain"
+        },
+        {
+          "date": "2022-06-24",
+          "code": 202,
+          "telop": "Cloudy, with an interval of rain"
+        }
+      ]
     },
     "cn": {
-        "info": {
-            "created_datetime": "2022-06-17 17:00:00",
-            "is_daytime": 0,
-            "sunrise_time": "05:07",
-            "sunset_time": "19:30",
-            "area": {
-                "pref": "",
-                "area1": "福冈县"
-            }
+      "info": {
+        "created_datetime": "2022-06-17 17:00:00",
+        "is_daytime": 0,
+        "sunrise_time": "05:07",
+        "sunset_time": "19:30",
+        "area": {
+          "pref": "",
+          "area1": "福冈县"
+        }
+      },
+      "day": {
+        "today": {
+          "date": "2022-06-18 00:00:00",
+          "weather": {
+            "code": 201,
+            "telop": "多云到晴"
+          }
+        }
+      },
+      "week": [
+        {
+          "date": "2022-06-19",
+          "code": 200,
+          "telop": "多云"
         },
-        "day": {
-            "today": {
-                "date": "2022-06-18 00:00:00",
-                "weather": {
-                    "code": 201,
-                    "telop": "多云到晴"
-                }
-            }
+        {
+          "date": "2022-06-20",
+          "code": 200,
+          "telop": "多云"
         },
-        "week": [
-            {
-                "date": "2022-06-19",
-                "code": 200,
-                "telop": "多云"
-            },
-            {
-                "date": "2022-06-20",
-                "code": 200,
-                "telop": "多云"
-            },
-            {
-                "date": "2022-06-21",
-                "code": 202,
-                "telop": "阴有短时阵雨"
-            },
-            {
-                "date": "2022-06-22",
-                "code": 202,
-                "telop": "阴有短时阵雨"
-            },
-            {
-                "date": "2022-06-23",
-                "code": 202,
-                "telop": "阴有短时阵雨"
-            },
-            {
-                "date": "2022-06-24",
-                "code": 202,
-                "telop": "阴有短时阵雨"
-            }
-        ]
+        {
+          "date": "2022-06-21",
+          "code": 202,
+          "telop": "阴有短时阵雨"
+        },
+        {
+          "date": "2022-06-22",
+          "code": 202,
+          "telop": "阴有短时阵雨"
+        },
+        {
+          "date": "2022-06-23",
+          "code": 202,
+          "telop": "阴有短时阵雨"
+        },
+        {
+          "date": "2022-06-24",
+          "code": 202,
+          "telop": "阴有短时阵雨"
+        }
+      ]
     }
-}
+  }
 }
